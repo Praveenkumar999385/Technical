@@ -1,1 +1,1 @@
-# Technical
+# HungrySnake Game
